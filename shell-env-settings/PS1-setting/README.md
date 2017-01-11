@@ -32,6 +32,3 @@ Run the following codes on your terminal:
 	
 	cd -
 
-	# Reload profile	
-	. ~/.bashrc
-
