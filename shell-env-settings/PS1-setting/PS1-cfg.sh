@@ -1,4 +1,4 @@
-# !/bin/bash
+#!/bin/bash
 
 ps1_cfg="./PS1.cfg"
 profile="${HOME}/.bashrc"
