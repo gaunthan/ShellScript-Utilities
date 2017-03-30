@@ -1,5 +1,5 @@
 # PS1-setting
-> Automatically configure PS1, beautify your prompt.  
+Automatically configure PS1, beautify your prompt.  
 
 ## Files
 ### PS1.cfg
