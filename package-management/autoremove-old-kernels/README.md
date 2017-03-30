@@ -2,7 +2,7 @@
 > Automatically remove all your old kernels.
 
 ## Screenshot
-![]Screenshot.png()
+![](Screenshot.png)
 
 ## How To Use
 Run the following codes on your terminal:
