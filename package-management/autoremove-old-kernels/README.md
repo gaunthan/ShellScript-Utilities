@@ -14,4 +14,5 @@ wget https://raw.githubusercontent.com/gaunthan/ShellScript-Utilities/master/pac
 # Run.
 chmod +x ./autoremove-old-kernels.sh
 ./autoremove-old-kernels.sh
+
 ```
