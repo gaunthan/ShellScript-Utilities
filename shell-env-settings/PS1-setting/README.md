@@ -18,7 +18,7 @@ This is a simple ShellScript used to automatically configure PS1, let your promp
 Run the following codes on your terminal:
 	
 	# Install.
-	wget https://github.com/gaunthan/ShellScript-Utilities/blob/master/shell-env-settings/PS1-setting/PS1-cfg.sh https://github.com/gaunthan/ShellScript-Utilities/blob/master/shell-env-settings/PS1-setting/PS1.cfg
+	wget https://raw.githubusercontent.com/gaunthan/ShellScript-Utilities/master/shell-env-settings/PS1-setting/PS1-cfg.sh https://raw.githubusercontent.com/gaunthan/ShellScript-Utilities/master/shell-env-settings/PS1-setting/PS1.cfg
 		
 	# Run.
 	chmod u+x ./PS1-cfg.sh
