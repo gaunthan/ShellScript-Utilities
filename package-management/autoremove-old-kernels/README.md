@@ -1,5 +1,5 @@
 # autoremove-old-kernels
-> Automatically remove all your old kernels.
+Automatically remove all your old kernels.
 
 ## Screenshot
 ![](Screenshot.png)
